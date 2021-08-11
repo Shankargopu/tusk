@@ -6,4 +6,7 @@ tomato
 
 chicken
 
+beans 
+pizza
+
 thank you !
